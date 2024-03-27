@@ -26,7 +26,7 @@ The prototype demonstrates key features of the Beach Forecast Device using senso
 | Device collects Humidity data                 | Relative Humidity (%)                | Realistic Value      | 30           | Pass      |
 | Device collects light intensity data          | Light intensity (%)                  | Realistic Value      | 89.32        | Pass      |
 | Device collects wind speed data               | Wind speed (MPH)                     | Realistic Value      | 10           | Pass      |
-| Device collects water height data             | Wave height (mm) & Tide height (mm) | Realistic Value      | 0.91         | Pass      |
+| Device collects water height data             | Wave height (mm) / Tide height (mm) | Realistic Value      | 0.91 / 200         | Pass      |
 | Device can change flag status                | Ease for beach guard to switch Flag status | Can input flag without too much issues | Quite easy (if quick) | Pass |
 | Device can display data on an LCD            | How smooth and clear the data is displayed | Speed of sliding is good, and quality is good | Relatively good | Pass |
 
